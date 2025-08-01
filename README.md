@@ -5,14 +5,14 @@ This repository contains materials and lab assignments for the [Deep Learning Sp
 ## Course 1: Neural Networks and Deep Learning
 **[Go to Course 1 on Coursera](https://www.coursera.org/learn/neural-networks-deep-learning)**
 
-#### Week 1: Introduction to Deep Learning
+### Week 1: Introduction to Deep Learning
 - **Topics Covered:**
   - What is a neural network?
   - Supervised learning with neural networks
   - Why is deep learning taking off?
 - **Heroes of Deep Learning:** [Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)
 
-#### Week 2: Neural Networks Basics
+### Week 2: Neural Networks Basics
 - **Topics Covered:**
   - Binary classification
   - Logistic regression
@@ -20,7 +20,7 @@ This repository contains materials and lab assignments for the [Deep Learning Sp
   - Python and vectorization
 - **Heroes of Deep Learning:** [Pieter Abbeel](https://youtu.be/dmkPJpWCVcI)
 
-#### Week 3: Shallow Neural Networks
+### Week 3: Shallow Neural Networks
 - **Topics Covered:**
   - Neural network representation
   - Computing neural network output
@@ -28,7 +28,7 @@ This repository contains materials and lab assignments for the [Deep Learning Sp
   - Activation functions
 - **Heroes of Deep Learning:** [Ian Goodfellow](https://youtu.be/pWAc9B2zJS4)
 
-#### Week 4: Deep Neural Networks
+### Week 4: Deep Neural Networks
 - **Topics Covered:**
   - Deep L-layer neural network
   - Forward and backward propagation
