@@ -38,6 +38,35 @@ This repository contains materials and lab assignments for the [Deep Learning Sp
 ## Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 **[Go to Course 2 on Coursera](https://www.coursera.org/learn/deep-neural-network)**
 
+### Week 1: Practical Aspects of Deep Learning
+- **Topics Covered:**
+  - Setting up your Machine Learning Application
+  - Regularization techniques (L2, Dropout, Data Augmentation, Early Stopping)
+  - Setting up your optimization problem
+  - Normalizing inputs
+  - Vanishing/Exploding gradients
+  - Weight initialization
+  - Gradient checking
+- **Heroes of Deep Learning:** [Yoshua Bengio](https://youtu.be/pnTLZQhFpaE)
+
+### Week 2: Optimization Algorithms
+- **Topics Covered:**
+  - Mini-batch gradient descent
+  - Exponentially weighted averages
+  - Momentum and RMSprop
+  - Adam optimization algorithm
+  - Learning rate decay
+  - The problem of local optima
+- **Heroes of Deep Learning:** [Yuanqing Lin](https://youtu.be/3GfOnI3goAk)
+
+### Week 3: Hyperparameter Tuning, Batch Normalization and Programming Frameworks
+- **Topics Covered:**
+  - Hyperparameter tuning
+  - Batch normalization
+  - Multi-class classification
+  - Programming frameworks (TensorFlow, PyTorch)
+  - TensorFlow implementation
+
 ## Course 3: Structuring your Machine Learning Project
 **[Go to Course 3 on Coursera](https://www.coursera.org/learn/machine-learning-projects)**
 
