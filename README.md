@@ -70,6 +70,33 @@ This repository contains materials and lab assignments for the [Deep Learning Sp
 ## Course 3: Structuring your Machine Learning Project
 **[Go to Course 3 on Coursera](https://www.coursera.org/learn/machine-learning-projects)**
 
+### Week 1: ML Strategy (1)
+- **Topics Covered:**
+  - Orthogonalization
+  - Single number evaluation metric
+  - Satisficing and optimizing metric
+  - Training, development, and test distributions
+  - Size of the development and test sets
+  - When to change development/test sets and metrics
+  - Why human-level performance?
+  - Avoidable bias
+  - Understanding human-level performance
+  - Surpassing human-level performance
+  - Improving your model performance
+- **Heroes of Deep Learning:** [Andrej Karpathy](https://youtu.be/_au3yw46lcg)
+
+### Week 2: ML Strategy (2)
+- **Topics Covered:**
+  - Build system quickly
+  - Training and testing on different distributions
+  - Bias and variance with mismatched data distributions
+  - Addressing data mismatch
+  - Transfer learning
+  - Multi-task learning
+  - What is end-to-end deep learning?
+  - Whether to use end-to-end deep learning
+- **Heroes of Deep Learning:** [Ruslan Salakhutdinov](https://youtu.be/EveYfHKXvfc)
+
 ## Course 4: Convolutional Neural Networks
 **[Go to Course 4 on Coursera](https://www.coursera.org/learn/convolutional-neural-networks)**
 
