@@ -100,6 +100,62 @@ This repository contains materials and lab assignments for the [Deep Learning Sp
 ## Course 4: Convolutional Neural Networks
 **[Go to Course 4 on Coursera](https://www.coursera.org/learn/convolutional-neural-networks)**
 
+### Week 1: Foundations of Convolutional Neural Networks
+- **Topics Covered:**
+  - Computer vision applications
+  - Edge detection examples
+  - More edge detection
+  - Padding
+  - Strided convolutions
+  - Convolutions over volumes
+  - One layer of a convolutional network
+  - Simple convolutional network example
+  - Pooling layers
+  - CNN example
+  - Why convolutions?
+- **Heroes of Deep Learning:** [Yann LeCun](https://youtu.be/JS12eb1cTLE)
+
+### Week 2: Deep Convolutional Models: Case Studies
+- **Topics Covered:**
+  - Why look at case studies?
+  - Classic networks (LeNet-5, AlexNet, VGG)
+  - ResNets (Residual Networks)
+  - Why ResNets work?
+  - Networks in Networks and 1x1 convolutions
+  - Inception network motivation
+  - Inception network
+  - Using open-source implementations
+  - Transfer learning
+  - Data augmentation
+  - State of computer vision
+
+### Week 3: Object Detection
+- **Topics Covered:**
+  - Object localization
+  - Landmark detection
+  - Object detection
+  - Convolutional implementation of sliding windows
+  - Bounding box predictions
+  - Intersection over Union
+  - Non-max suppression
+  - Anchor boxes
+  - YOLO algorithm
+  - Region proposals (R-CNN)
+
+### Week 4: Special Applications: Face Recognition & Neural Style Transfer
+- **Topics Covered:**
+  - What is face recognition?
+  - One-shot learning
+  - Siamese network
+  - Triplet loss
+  - Face verification and binary classification
+  - What is neural style transfer?
+  - What are deep ConvNets learning?
+  - Cost function
+  - Content cost function
+  - Style cost function
+  - 1D and 3D generalizations of models
+
 ## Course 5: Natural Language Processing: Building Sequence Models
 **[Go to Course 5 on Coursera](https://www.coursera.org/learn/nlp-sequence-models)**
 
