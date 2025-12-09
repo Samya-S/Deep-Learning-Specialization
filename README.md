@@ -159,6 +159,42 @@ This repository contains materials and lab assignments for the [Deep Learning Sp
 ## Course 5: Natural Language Processing: Building Sequence Models
 **[Go to Course 5 on Coursera](https://www.coursera.org/learn/nlp-sequence-models)**
 
+### Week 1: Recurrent Neural Networks
+- **Topics Covered:**
+  - Recurrent neural networks (RNNs) intuition
+  - Forward and backward propagation through time
+  - Gated Recurrent Units (GRUs)
+  - Long Short-Term Memory (LSTM) networks
+  - Deep RNNs and Bidirectional RNNs
+  - Language modeling concepts
+
+### Week 2: Natural Language Processing & Word Embeddings
+- **Topics Covered:**
+  - Word representations and word embeddings
+  - Word2Vec and GloVe algorithms
+  - Sentiment classification with embeddings
+  - Debiasing word embeddings
+  - Sequence-to-vector architectures
+  - Siamese networks for similarity tasks
+
+### Week 3: Sequence Models & Attention Mechanisms
+- **Topics Covered:**
+  - Sequence-to-sequence models
+  - Beam search decoding
+  - Attention mechanism intuition and math
+  - Speech recognition pipelines
+  - Trigger word detection
+  - Transliteration and translation systems
+
+### Week 4: Transformers & Advanced Sequence Applications
+- **Topics Covered:**
+  - Transformer architecture overview (multi-head attention, positional encoding)
+  - Comparing RNN-based vs transformer-based models
+  - Practical tips for training transformers
+  - Text generation strategies
+  - Summarization and question answering case studies
+  - Deployment considerations for sequence models
+
 ---
 
 ## Getting Started
